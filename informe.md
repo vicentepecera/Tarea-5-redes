@@ -1,6 +1,7 @@
 INFORME - ACTIVIDAD: FORWARDING BÁSICO
 
 1. Declaración de uso de IA
+
 Para esta actividad utilicé Claude (Anthropic) como asistente. Claude generó el código de enviar.py a partir del enunciados y redactó este informe a partir de pruebas que ejecute con el código.
 
 2. Tabla de rutas de la actividad vs. una tabla de rutas real
